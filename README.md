@@ -3,7 +3,7 @@
 <p>John<br>Alicia<br>Enzo<br>Arthur<br>Isaac Fabiano</p>
 <h1>Referencia:</h1>
 guilhermeantunes-code/fiscalizacao-patinete
-<h1>Regras de velocida do grupo:</h1>
+<h1>Regras de velocidade do grupo:</h1>
 <p>Patinete elétrico - Só em vias ate 60km/h; teto própio de 25km/h</p>
 
 <h1>Relatório ESP32</h1>
